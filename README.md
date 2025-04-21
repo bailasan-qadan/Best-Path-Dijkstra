@@ -95,4 +95,3 @@ Users can select their optimization priority. Based on the selected filter, Dijk
 - **Less Time** → Uses cumulative time as the weight
 - **Shortest Distance** → Uses geographic distance (calculated via Haversine formula) as the weight
 
-## 🖼️ Screenshots of the program
