@@ -1,0 +1,292 @@
+Jerusalem,31.7683,35.2137
+Cairo,30.0444,31.2357
+Baghdad,33.3152,44.3661
+Jaber,40,40
+Damascus,33.5132,36.2768
+Beirut,33.8938,35.5018
+Amman,31.9454,35.9284
+Kuwait City,29.3759,47.9774
+Riyadh,24.7136,46.6753
+Doha,25.2854,51.5310
+Abu Dhabi,24.4539,54.3773
+Muscat,23.5880,58.3829
+Sana'a,15.3545,44.2064
+Tehran,35.6892,51.3890
+Kabul,34.5553,69.2075
+Islamabad,33.6844,73.0479
+New Delhi,28.6139,77.2090
+Kathmandu,27.7172,85.3240
+Thimphu,27.4728,89.6392
+Dhaka,23.8103,90.4125
+Naypyidaw,19.7633,96.0785
+Bangkok,13.7563,100.5018
+Vientiane,17.9757,102.6331
+Hanoi,21.0285,105.8542
+Manila,14.5995,120.9842
+Phnom Penh,11.5564,104.9282
+Beijing,39.9042,116.4074
+Tokyo,35.6762,139.6503
+Seoul,37.5665,126.9780
+Ulaanbaatar,47.8864,106.9057
+Dushanbe,38.5598,68.7870
+Ankara,39.9334,32.8597
+Moscow,55.7558,37.6173
+Paris,48.8566,2.3522
+London,51.5074,-0.1278
+Berlin,52.5200,13.4050
+Rome,41.9028,12.4964
+Madrid,40.4168,-3.7038
+Amsterdam,52.3676,4.9041
+Brussels,50.8503,4.3517
+Vienna,48.2082,16.3738
+Copenhagen,55.6761,12.5683
+Stockholm,59.3293,18.0686
+Oslo,59.9139,10.7522
+Helsinki,60.1699,24.9384
+Warsaw,52.2297,21.0122
+Prague,50.0755,14.4378
+Budapest,47.4979,19.0402
+Bucharest,44.4268,26.1025
+Sofia,42.6977,23.3219
+
+Kathmandu,Paris,$147,477min
+Sana'a,Paris,$118,205min
+Moscow,Damascus,$91,494min
+Stockholm,Warsaw,$440,98min
+Copenhagen,Warsaw,$476,432min
+Cairo,Rome,$497,69min
+Warsaw,Seoul,$112,232min
+Tehran,Paris,$307,235min
+Hanoi,Kabul,$484,125min
+Kathmandu,Berlin,$340,131min
+Beirut,Baghdad,$208,62min
+Hanoi,Kuwait City,$155,569min
+Beirut,Cairo,$93,103min
+Thimphu,Manila,$169,306min
+Beirut,Prague,$223,490min
+Brussels,Kathmandu,$352,423min
+Rome,Thimphu,$316,297min
+London,Manila,$413,261min
+Tokyo,Sana'a,$437,258min
+Stockholm,Kabul,$123,377min
+Vientiane,Amsterdam,$165,208min
+Manila,Paris,$478,555min
+Islamabad,Manila,$89,523min
+Cairo,Moscow,$478,551min
+Jaber,Cairo,$250,120min
+Helsinki,Madrid,$165,376min
+Paris,Muscat,$260,515min
+Berlin,Jerusalem,$125,422min
+Amsterdam,Riyadh,$195,393min
+Hanoi,Tokyo,$385,86min
+Beirut,Bucharest,$151,273min
+Prague,London,$326,349min
+Madrid,Helsinki,$277,531min
+Islamabad,Helsinki,$387,565min
+Copenhagen,Beirut,$398,467min
+Kathmandu,Paris,$480,426min
+Prague,Kathmandu,$281,382min
+Ulaanbaatar,New Delhi,$264,247min
+Damascus,Stockholm,$285,396min
+Rome,Abu Dhabi,$201,250min
+Dhaka,New Delhi,$139,510min
+Berlin,Baghdad,$271,187min
+Stockholm,Riyadh,$466,158min
+Copenhagen,Sana'a,$431,133min
+Berlin,Doha,$153,325min
+Brussels,Amsterdam,$86,309min
+Phnom Penh,Muscat,$126,260min
+Berlin,Bangkok,$239,104min
+Madrid,Oslo,$391,146min
+Brussels,Naypyidaw,$407,482min
+Sana'a,Brussels,$119,476min
+Moscow,Oslo,$272,131min
+Moscow,Riyadh,$163,298min
+Budapest,Tokyo,$328,338min
+Hanoi,Amsterdam,$489,313min
+Prague,Stockholm,$483,126min
+Warsaw,Abu Dhabi,$297,137min
+Manila,Budapest,$419,248min
+Seoul,Bangkok,$372,579min
+Dushanbe,Berlin,$203,203min
+Riyadh,Abu Dhabi,$165,353min
+Abu Dhabi,Muscat,$426,89min
+Doha,Ulaanbaatar,$86,340min
+Bucharest,Sofia,$327,234min
+Sofia,Helsinki,$213,600min
+Helsinki,Manila,$221,410min
+Dhaka,Paris,$268,107min
+Vienna,Manila,$164,309min
+Rome,Damascus,$155,533min
+Hanoi,Naypyidaw,$394,307min
+Tokyo,Copenhagen,$165,495min
+Thimphu,Naypyidaw,$476,539min
+London,Tehran,$102,310min
+Bucharest,Ankara,$447,261min
+Bangkok,Muscat,$205,404min
+Prague,Baghdad,$449,404min
+Beirut,Vienna,$418,266min
+Dhaka,Dushanbe,$272,96min
+Muscat,Jerusalem,$365,176min
+Kabul,Bangkok,$223,120min
+Paris,Copenhagen,$498,403min
+Abu Dhabi,Vientiane,$56,502min
+Doha,Muscat,$418,404min
+Warsaw,Stockholm,$480,67min
+Dushanbe,Naypyidaw,$327,296min
+Dushanbe,Kathmandu,$286,502min
+Vientiane,Dushanbe,$224,578min
+Abu Dhabi,Bucharest,$450,121min
+Doha,Madrid,$259,592min
+Dushanbe,Riyadh,$336,269min
+Kabul,Tokyo,$241,371min
+Vientiane,Warsaw,$407,455min
+Madrid,Bucharest,$66,60min
+Moscow,Madrid,$476,156min
+Damascus,Tokyo,$277,401min
+Seoul,Sofia,$352,435min
+Bucharest,Rome,$63,191min
+Kabul,Rome,$496,173min
+Sofia,London,$174,247min
+Dhaka,Amman,$175,222min
+Sofia,Bangkok,$466,387min
+Warsaw,Baghdad,$369,521min
+Madrid,Dhaka,$387,222min
+Ulaanbaatar,Vientiane,$474,465min
+Seoul,Ankara,$135,283min
+Sana'a,Bucharest,$190,329min
+Amman,Doha,$94,570min
+Amsterdam,Cairo,$451,375min
+Seoul,Copenhagen,$364,488min
+Manila,Madrid,$154,314min
+Dhaka,Thimphu,$165,83min
+Jerusalem,Beijing,$382,383min
+Islamabad,Abu Dhabi,$470,512min
+Manila,Damascus,$250,506min
+Tokyo,Sana'a,$263,73min
+Islamabad,Hanoi,$392,258min
+Stockholm,Bangkok,$143,102min
+Helsinki,Dushanbe,$446,418min
+Budapest,Moscow,$73,272min
+Abu Dhabi,Baghdad,$262,395min
+Kabul,Cairo,$339,409min
+Dhaka,Warsaw,$415,565min
+Brussels,Riyadh,$380,396min
+Rome,Sofia,$193,90min
+Hanoi,Beirut,$169,576min
+Vienna,Paris,$197,459min
+Prague,Abu Dhabi,$315,125min
+Moscow,Ankara,$353,572min
+Brussels,Stockholm,$228,387min
+Warsaw,Cairo,$284,191min
+Brussels,Ankara,$380,408min
+New Delhi,Kathmandu,$321,275min
+Stockholm,Helsinki,$325,417min
+Damascus,Prague,$393,408min
+Bucharest,Ankara,$209,598min
+Phnom Penh,Prague,$120,149min
+Tehran,Damascus,$447,336min
+Warsaw,Kathmandu,$310,103min
+Ulaanbaatar,Islamabad,$149,161min
+Brussels,Cairo,$215,418min
+Helsinki,Seoul,$403,94min
+Ankara,Amman,$251,287min
+Bucharest,Prague,$216,504min
+Warsaw,Moscow,$428,383min
+Kuwait City,Damascus,$117,481min
+Bucharest,Sana'a,$353,318min
+Warsaw,Budapest,$126,389min
+Baghdad,Vientiane,$450,489min
+Oslo,Doha,$426,325min
+Seoul,Islamabad,$255,345min
+Amman,Paris,$217,316min
+Dhaka,Prague,$448,341min
+Amsterdam,New Delhi,$71,185min
+Sana'a,Vienna,$150,346min
+Beijing,Amman,$495,590min
+Seoul,Vienna,$138,553min
+Naypyidaw,Doha,$401,145min
+Doha,Manila,$458,459min
+Muscat,Doha,$121,375min
+Beirut,Kuwait City,$476,543min
+Riyadh,Stockholm,$233,561min
+Amsterdam,Prague,$298,456min
+Madrid,Bucharest,$451,598min
+Oslo,Abu Dhabi,$356,461min
+Kuwait City,Islamabad,$286,113min
+Muscat,Sofia,$196,308min
+Riyadh,Rome,$389,550min
+Kabul,London,$411,388min
+Helsinki,Hanoi,$268,382min
+Ulaanbaatar,Kuwait City,$275,149min
+Ankara,Jerusalem,$73,585min
+Islamabad,Brussels,$330,101min
+Ankara,Bangkok,$425,582min
+Moscow,Abu Dhabi,$236,551min
+Manila,Jerusalem,$275,586min
+Amsterdam,Prague,$482,67min
+Sofia,Muscat,$107,517min
+Hanoi,Kathmandu,$460,441min
+Riyadh,Vienna,$158,165min
+Moscow,Kuwait City,$372,450min
+Doha,Kuwait City,$224,93min
+Bangkok,Oslo,$445,270min
+Baghdad,Rome,$343,347min
+Tokyo,Berlin,$353,256min
+London,Helsinki,$267,246min
+Berlin,Cairo,$383,309min
+Islamabad,Abu Dhabi,$175,529min
+Abu Dhabi,Prague,$172,309min
+Berlin,Paris,$221,580min
+London,Oslo,$261,217min
+Prague,Kathmandu,$373,250min
+Bucharest,Rome,$204,488min
+Kabul,Amsterdam,$474,113min
+New Delhi,Dushanbe,$173,322min
+Dhaka,Madrid,$455,214min
+Oslo,Dhaka,$422,73min
+New Delhi,Amsterdam,$161,432min
+Ulaanbaatar,Kabul,$280,333min
+Abu Dhabi,Helsinki,$354,133min
+Beirut,Jerusalem,$286,469min
+Stockholm,Beirut,$498,95min
+Jerusalem,Amman,$150,60min
+Cairo,Beirut,$200,75min
+Baghdad,Tehran,$180,90min
+Damascus,Riyadh,$220,120min
+Beirut,Ankara,$210,100min
+Amman,Kuwait City,$230,110min
+Riyadh,Abu Dhabi,$190,90min
+Doha,Muscat,$170,85min
+Abu Dhabi,Islamabad,$250,180min
+Muscat,New Delhi,$260,190min
+Sana'a,Cairo,$240,150min
+Tehran,Kabul,$200,120min
+Kabul,Islamabad,$160,60min
+Islamabad,New Delhi,$180,75min
+New Delhi,Kathmandu,$170,70min
+Kathmandu,Dhaka,$190,80min
+Dhaka,Bangkok,$220,120min
+Bangkok,Hanoi,$210,110min
+Hanoi,Vientiane,$200,100min
+Vientiane,Phnom Penh,$190,90min
+Phnom Penh,Manila,$230,150min
+Manila,Beijing,$280,180min
+Beijing,Seoul,$250,130min
+Seoul,Tokyo,$270,140min
+Tokyo,Ulaanbaatar,$290,210min
+Ulaanbaatar,Dushanbe,$310,240min
+Dushanbe,Ankara,$320,250min
+Ankara,Moscow,$230,150min
+Moscow,Warsaw,$220,140min
+Warsaw,Berlin,$180,90min
+Berlin,Paris,$200,100min
+Paris,London,$190,80min
+London,Madrid,$220,120min
+Madrid,Rome,$210,110min
+Rome,Vienna,$200,100min
+Vienna,Budapest,$180,80min
+Budapest,Bucharest,$190,90min
+Bucharest,Sofia,$170,70min
+Sofia,Athens,$180,80min
+Athens,Cairo,$220,120min
